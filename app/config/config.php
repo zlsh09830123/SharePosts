@@ -8,7 +8,7 @@
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
     // URL Root
-    define('URLROOT', 'http://videotube.gq:8003');
+    define('URLROOT', 'https://phpdev.ml:8003');
     // Site Name
     define('SITENAME', 'SharePosts');
     // App Version
